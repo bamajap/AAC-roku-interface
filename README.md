@@ -1,4 +1,4 @@
-# tobii-roku-interface
+# AAC-roku-interface
 
 This repository contains instructions (and source code) that will allow Tobii Dynavox and PRC Accent users to setup their Augmentative and Alternative Communication (AAC) device to control Roku devices.
 
